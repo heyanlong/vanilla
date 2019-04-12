@@ -1,4 +1,6 @@
+<?php
+
 /**
-* @var $r \FastRoute\RouteCollector
-*/
-$r->get('/', [])
+ * @var $r \FastRoute\RouteCollector
+ */
+$r->get('/', [\App\Http\Controllers\IndexController::class, 'index']);

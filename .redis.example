@@ -1,0 +1,1 @@
+masterName@password|tcp://127.0.0.1:26379?timeout=1,tcp://127.0.0.1:26379?timeout=1#/you/redis/map/key

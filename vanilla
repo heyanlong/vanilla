@@ -1,0 +1,15 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__ . '/vendor/autoload.php';
+
+try {
+    \Vanilla\Config\Environment::load(__DIR__ . '/.redis');
+} catch (\Exception $e) {
+    echo 'network fail, try again later!';
+    exit;
+}
+
+$app = new \Vanilla\Application(__DIR__);
+$app->process(new \Vanilla\Process\Cli($app, $argv));
+$app->run();
