@@ -26,4 +26,4 @@ $ phpunit
 
 ## License
 
-The Slim Framework is licensed under the MIT license. See [License File](LICENSE.md) for more information.
+The Vanilla Framework is licensed under the MIT license. See [License File](LICENSE.md) for more information.
