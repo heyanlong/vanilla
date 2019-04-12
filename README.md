@@ -1,5 +1,6 @@
 # Vanilla Framework
 
+[![Build Status](https://travis-ci.com/kaiyuan-finance/vanilla.svg?branch=master)](https://travis-ci.com/kaiyuan-finance/vanilla)
 [![Total Downloads](https://poser.pugx.org/kaiyuan-finance/vanilla-framework/downloads)](https://packagist.org/packages/kaiyuan-finance/vanilla-framework)
 [![License](https://poser.pugx.org/kaiyuan-finance/vanilla-framework/license)](https://packagist.org/packages/kaiyuan-finance/vanilla-framework)
 
