@@ -1,0 +1,15 @@
+sudo: false
+
+language: php
+
+dist: trusty
+
+php:
+  - 7.1
+  - 7.2
+  - 7.3
+
+install: travis_retry composer install --no-interaction
+
+script:
+  - phpunit
