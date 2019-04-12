@@ -9,6 +9,9 @@ php:
   - 7.2
   - 7.3
 
+before_script:
+  - cp .redis.example .redis
+
 install: travis_retry composer install --no-interaction
 
 script:
