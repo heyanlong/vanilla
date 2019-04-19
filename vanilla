@@ -4,7 +4,7 @@
 require __DIR__ . '/vendor/autoload.php';
 
 try {
-    \Vanilla\Config\Environment::load(__DIR__ . '/.redis');
+    \Vanilla\Config\Environment::load(__DIR__);
 } catch (\Exception $e) {
     echo 'network fail, try again later!';
     exit;
