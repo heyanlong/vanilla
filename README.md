@@ -1,8 +1,8 @@
 # Vanilla Framework
 
-[![Build Status](https://travis-ci.com/heyanlong/vanilla.svg?branch=master)](https://travis-ci.com/kaiyuan-finance/vanilla)
+[![Build Status](https://travis-ci.com/heyanlong/vanilla.svg?branch=master)](https://travis-ci.com/heyanlong/vanilla)
 [![Total Downloads](https://poser.pugx.org/heyanlong/vanilla-framework/downloads)](https://packagist.org/packages/heyanlong/vanilla-framework)
-[![License](https://poser.pugx.org/heyanlong/vanilla-framework/license)](https://packagist.org/packages/kaiyuan-finance/vanilla-framework)
+[![License](https://poser.pugx.org/heyanlong/vanilla-framework/license)](https://packagist.org/packages/heyanlong/vanilla-framework)
 
 ## Installation
 It's recommended that you use [Composer](https://getcomposer.org/) to install Vanilla.
